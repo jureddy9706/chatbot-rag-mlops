@@ -1,0 +1,15 @@
+torch
+sentence-transformers
+langchain
+langchain-ollama
+chromadb
+nltk
+rouge
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+plotly
+pandas
+
+

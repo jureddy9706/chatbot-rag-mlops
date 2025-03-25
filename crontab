@@ -1,0 +1,2 @@
+0 10 1 * * /path/to/chatbot_rag_pipeline/run_pipeline.sh >> /path/to/chatbot_rag_pipeline/logs/pipeline_cron.log 2>&1
+
